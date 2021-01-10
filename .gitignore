@@ -1,0 +1,13 @@
+backend/app/.idea
+backend/app/app/__pycache__
+backend/app/app/api/__pycache__
+backend/app/app/api/api_V1/__pycache__
+backend/app/app/api/api_V1/endpoints/__pycache__
+backend/app/app/core/__pycache__
+backend/app/logs
+backend/app/alembic/__pycache__
+backend/app/app/crud/__pycache__
+backend/app/app/db/__pycache__
+backend/app/app/models/__pycache__
+backend/app/app/schemas/__pycache__
+backend/app/alembic/versions/__pycache__
